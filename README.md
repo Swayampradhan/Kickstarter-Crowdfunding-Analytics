@@ -79,7 +79,7 @@ The Tableau dashboard provides:
 
 📷 **Dashboard Preview:**  
 <p align="center">
-  <img src="C:\Users\KIIT0001\Desktop\Uploads\crowd_funding_dashboard.jpg"/>
+  <img src="C:/Users/KIIT0001/Desktop/Uploads/crowd_funding_dashboard.jpg"/>
 </p>
 
 
