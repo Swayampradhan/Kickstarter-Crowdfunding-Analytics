@@ -17,10 +17,9 @@ The analysis helps stakeholders understand **what drives successful crowdfunding
 
 ## 🛠 Tools & Technologies
 - **SQL** – Data querying, aggregation, KPI calculations  
-- **Python** – Data preprocessing and epoch-to-datetime conversion  
+- **Excel** – Data preprocessing and epoch-to-datetime conversion  
 - **Tableau** – Interactive dashboards & visual storytelling  
-- **Excel / CSV** – Source datasets  
-
+   
 ---
 
 ## 📂 Dataset Description
@@ -76,12 +75,6 @@ The Tableau dashboard provides:
 - KPI summary cards
 - Trend analysis charts
 - Top-performing project highlights
-
-📷 **Dashboard Preview:**  
-<p align="center">
-  <img src="C:/Users/KIIT0001/Desktop/Uploads/crowd_funding_dashboard.jpg"/>
-</p>
-
 
 ---
 
